@@ -1,0 +1,9 @@
+/**
+ * Execution entry point
+ */
+class Main {
+    function void main() {
+        do NandMines.run();
+        return;
+    }	
+}
